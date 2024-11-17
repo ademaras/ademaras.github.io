@@ -1,7 +1,7 @@
 # Adem ARAS - Yazılım Geliştirici
 
 ## İletişim
-- E-posta: [email@example.com](mailto:email@example.com)
+- E-posta: [ademarass@gmail.com](mailto:ademarass@gmail.com)
 
 
 ## 🌐 Socials:
